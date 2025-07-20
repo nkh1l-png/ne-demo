@@ -1,4 +1,4 @@
 # ne-demo
 new demo repo
 <br>
-Author - Nikhil
+Author - Nikhil (MGK)
